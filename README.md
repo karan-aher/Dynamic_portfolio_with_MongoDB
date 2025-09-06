@@ -143,8 +143,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributors
 
-- 👨‍💻 Your Name
-- 🌟 [Add more contributors here]
+- 👨‍💻 Karan Aher
+- 🌟 with Tech Surya IT Solution
 
 <br>
 
