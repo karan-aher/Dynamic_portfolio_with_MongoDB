@@ -73,7 +73,7 @@ export default function Home() {
         {/* Left: Text */}
         <div className="w-full md:w-1/2 flex flex-col items-center md:items-start text-center md:text-left z-10">
           <span className="uppercase text-xs font-semibold tracking-widest text-pink-400 mb-4 bg-gray-800/60 px-3 py-1 rounded-full shadow">
-            Creative Designer
+            Full Stack Web Developer
           </span>
           <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-4 leading-tight drop-shadow-lg">
             Hi, I&apos;m{' '}
