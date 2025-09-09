@@ -190,7 +190,7 @@ export default function Home() {
           transition={{ duration: 0.7, type: 'spring' }}
         >
           <span className="text-gray-200">
-            {admin?.profile || 'Passionate developer crafting beautiful and performant apps.'}
+            {admin?.profile || 'Welcome to my digital space! I'm a dedicated Full Stack Web Developer passionate about crafting seamless digital experiences that blend front-end flair with robust back-end logic. From concept to deployment, I transform ideas into responsive, functional, and user-friendly web solutions. Alongside my development skills, I'm also an Ethical Hacker with a keen focus on identifying vulnerabilities and securing applications. With a strong emphasis on performance, usability, clean code, and security, I strive to build web applications that not only look great but also deliver real value to users.!!'}
           </span>
         </motion.div>
       </motion.section>
